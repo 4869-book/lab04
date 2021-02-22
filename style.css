@@ -1,0 +1,15 @@
+.clicked {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+
+.click {
+    background-color: white;
+    height: 100px;
+    width: 100px;
+}
+table{
+    border: 20px solid red;
+    margin: auto;
+}
